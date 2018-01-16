@@ -15,8 +15,11 @@ It is recommended to visit [DISA STIG profile for Red Hat Enterprise Linux 7](ht
 ## What we Do
 In this guide we carry out the following task to meet our compliance. These list of hardening task were taken from  [DISA STIG profile for Red Hat Enterprise Linux 7](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html)
 
- 1. System Settings 
+ - System Settings 
 	 1. Installing and Maintaining Software
+	 2. 
+		 - List item
+
 	
  2. Services
 	  1. Obsolete Services 
@@ -31,5 +34,5 @@ In this guide we carry out the following task to meet our compliance. These list
 	  10. FTP Server 
 	  11. SNMP Server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyNTQyNDA4XX0=
+eyJoaXN0b3J5IjpbNzQ1NzAwNDUwXX0=
 -->
