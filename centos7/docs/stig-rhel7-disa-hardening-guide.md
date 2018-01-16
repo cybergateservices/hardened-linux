@@ -24,21 +24,7 @@ In this guide we carry out the following task to meet our compliance. These list
 	 - Configure Syslog 
 	 - System Accounting with auditd
  2. Services
- 
-
-		
-
-	  1. Obsolete Services 
-	  2. Base Services 
-	  3. Cron and At Daemons 
-	  4. SSH Server 
-	  5. System Security Services Daemon 
-	  6. X Window System 
-	  7. Network Time Protocol 
-	  8. Mail Server Software 
-	  9. NFS and RPC 
-	  10. FTP Server 
-	  11. SNMP Server
+ Installing and Maintaining Software 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTEzMDk5MDddfQ==
+eyJoaXN0b3J5IjpbNzI1Nzk0NjY4XX0=
 -->
