@@ -35,9 +35,9 @@ In this guide we carry out the following task to meet our compliance. These list
 	- NFS and RPC 
 	- FTP Server  
 	- SNMP Server
-To meet our compliace we will be carrying out tasks here in a certain order. A
+To meet our compliace we will be carrying out tasks here in a certain order. Also 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzk4NzQ2MF19
+eyJoaXN0b3J5IjpbMTk5MzY3NzkxNl19
 -->
