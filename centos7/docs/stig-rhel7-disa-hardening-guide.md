@@ -23,8 +23,8 @@ In this guide we carry out the following task to meet our compliance. These list
 	 5. Network Configuration and Firewalls
 	 6. Configure Syslog 
 	 7. System Accounting with auditd
- 2. List item
-
+ 2. Services
+	  1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MjcxNzI4XX0=
+eyJoaXN0b3J5IjpbMTIxMDU0NzgzNl19
 -->
