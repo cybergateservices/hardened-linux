@@ -25,18 +25,18 @@ In this guide we carry out the following task to meet our compliance. These list
 	 - System Accounting with auditd
  2. Services
 	- Obsolete Services 
-Base Services
-Cron and At Daemons
-SSH Server
-System Security Services Daemon
-X Window System
-Network Time Protocol
-Mail Server Software
-NFS and RPC
-FTP Server
-SNMP Server
+	- Base Services 
+	- Cron and At Daemons 
+	- SSH Server 
+	- System Security Services Daemon 
+	- X Window System 
+	- Network Time Protocol 
+	- Mail Server Software 
+	- NFS and RPC 
+	- FTP Server  
+	- SNMP Server
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1NjMzMDZdfQ==
+eyJoaXN0b3J5IjpbLTE1NzkzOTQwMjBdfQ==
 -->
