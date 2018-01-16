@@ -17,9 +17,15 @@ In this guide we carry out the following task to meet our compliance. These list
 
  1. System Settings
 	 1.Installing and Maintaining Software
-	 2. 
+	 2. File Permissions and Masks 
+	 3. SELinux 
+	 4. Account and Access Control 
+	 5. Network Configuration and Firewalls
+	 6. Configure Syslog 
+	 7. System Accounting with auditd
+
  2. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI2OTA2MzZdfQ==
+eyJoaXN0b3J5IjpbLTY2NDE3OTk2Nl19
 -->
