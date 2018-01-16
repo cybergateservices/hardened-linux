@@ -32,9 +32,9 @@ In this guide we carry out the following task to meet our compliance. These list
 	  6. X Window System 
 	  7. Network Time Protocol 
 	  8. Mail Server Software 
-	  9. NFS and RPC
-FTP Server
-SNMP Server
+	  9. NFS and RPC 
+	  10. FTP Server 
+	  11. SNMP Server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQyMTU3MDVdfQ==
+eyJoaXN0b3J5IjpbLTEzNzE5ODM5MzRdfQ==
 -->
