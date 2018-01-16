@@ -1,4 +1,4 @@
-## CentOS 7 Server Hardening Guide
+## CentOS 7 Server Hardening Guide for STIG DISA RHEL7
 The intention of this guide is to help you to harden your CentOS server using OpenSCAP tools. We are using the upstream DISA STIG security profile for Red Hat Enterprise Linux 7 which provides required settings for US Department of Defense systems.
 
 This benchmark is a direct port of a SCAP Security Guide benchmark developed for Red Hat Enterprise Linux. It has been modified through an automated process by the CentOS  developers to remove specific dependencies on Red Hat Enterprise Linux and to work with CentOS. The result is a generally useful SCAP Security Guide benchmark with the following limitations:
@@ -40,5 +40,5 @@ To meet our compliance we will be carrying out our tasks here in a certain order
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MDQ5NjddfQ==
+eyJoaXN0b3J5IjpbLTUwNzgzOTg4OF19
 -->
