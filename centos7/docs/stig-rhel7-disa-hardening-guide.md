@@ -35,9 +35,10 @@ In this guide we carry out the following task to meet our compliance. These list
 	- NFS and RPC 
 	- FTP Server  
 	- SNMP Server
+
 To meet our compliance we will be carrying out tasks here in a certain order. Also we will be doing some additional hardening steps which are not specified by the policy.  Some of such task are creating a kickstart installation with disk encryption, creating SSH  keys with high grade encryption etc.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTI4OTMyNF19
+eyJoaXN0b3J5IjpbLTE3MTU0MzUzOTRdfQ==
 -->
