@@ -24,7 +24,7 @@ In this guide we carry out the following task to meet our compliance. These list
 	 - Configure Syslog 
 	 - System Accounting with auditd
  2. Services
-
+		
 
 	  1. Obsolete Services 
 	  2. Base Services 
@@ -38,5 +38,5 @@ In this guide we carry out the following task to meet our compliance. These list
 	  10. FTP Server 
 	  11. SNMP Server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODYyMDYzM119
+eyJoaXN0b3J5IjpbMTI3MjgyNzI3M119
 -->
