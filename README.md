@@ -1,2 +1,2 @@
 # OpenSCAP Hadden Linux Guides
-[STIG CentO 7 DISA Hardening Guide](centos7/docs/stig-rhel7-disa-hardening-guide.md)
+[CentOS 7 Server Hardening Guide for STIG DISA RHEL7](centos7/docs/stig-rhel7-disa-hardening-guide.md)
