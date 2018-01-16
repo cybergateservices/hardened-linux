@@ -36,8 +36,8 @@ In this guide we carry out the following task to meet our compliance. These list
 	- FTP Server  
 	- SNMP Server
 
-##
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxODM0NTQyXX0=
+eyJoaXN0b3J5IjpbLTEyNTM5MTkyODJdfQ==
 -->
