@@ -13,7 +13,7 @@ It is recommended to visit [DISA STIG profile for Red Hat Enterprise Linux 7](ht
 
 [SCAP](https://scap.nist.gov/) or Security Content Automation Protocol is U.S. standard maintained by National Institute of Standards and Technology [NIST](https://www.nist.gov/). OpenSCAP project is a collection of open source tools for implementing and enforcing this standard. Please visit [OpenSCAP](https://www.open-scap.org/) web site to learn more.
 ## What we Do
-In this guide we 
+In this guide we carry out the following task to meet our compliance  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0NjM4ODI1XX0=
+eyJoaXN0b3J5IjpbOTQwNDAxMzBdfQ==
 -->
