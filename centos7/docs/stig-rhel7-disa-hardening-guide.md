@@ -22,6 +22,8 @@ In this guide we carry out the following task to meet our compliance. These list
 	 - Network Configuration and Firewalls 
 	 - Configure Syslog 
 	 - System Accounting with auditd
+
+
  2. Services
 
 
@@ -37,5 +39,5 @@ In this guide we carry out the following task to meet our compliance. These list
 	  10. FTP Server 
 	  11. SNMP Server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM0NjA3MjldfQ==
+eyJoaXN0b3J5IjpbMTYwODQyMzQ2N119
 -->
