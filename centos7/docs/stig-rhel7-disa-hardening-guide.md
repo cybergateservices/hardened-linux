@@ -16,10 +16,10 @@ It is recommended to visit [DISA STIG profile for Red Hat Enterprise Linux 7](ht
 In this guide we carry out the following task to meet our compliance. These list of hardening task were taken from  [DISA STIG profile for Red Hat Enterprise Linux 7](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html)
 
  1. System Settings
-	 1. 
+	 1.Installing and Maintaining Software
 	 2. 
  2. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTY1NzA5MF19
+eyJoaXN0b3J5IjpbLTE2NzI2OTA2MzZdfQ==
 -->
