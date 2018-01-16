@@ -35,9 +35,9 @@ In this guide we carry out the following task to meet our compliance. These list
 	- NFS and RPC 
 	- FTP Server  
 	- SNMP Server
-To meet our compliance we will be carrying out tasks here in a certain order. Also we will be doing some additional hardening steps which are not specified by the poc=licy.  Some of such task is creating a 
+To meet our compliance we will be carrying out tasks here in a certain order. Also we will be doing some additional hardening steps which are not specified by the poc=licy.  Some of such task is creating a kickstart installation with disk encryption, creating SSH  keys with high grade encryption 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg5NDgwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE1MjA0OTE0ODBdfQ==
 -->
