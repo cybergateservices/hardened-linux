@@ -12,7 +12,7 @@ It is recommended to visit [DISA STIG profile for Red Hat Enterprise Linux 7](ht
 ## SCAP vs OpenSCAP
 
 [SCAP](https://scap.nist.gov/) or Security Content Automation Protocol is U.S. standard maintained by National Institute of Standards and Technology [NIST](https://www.nist.gov/). OpenSCAP project is a collection of open source tools for implementing and enforcing this standard. Please visit [OpenSCAP](https://www.open-scap.org/) web site to learn more.
-## What we Do
+## What We Do
 In this guide we carry out the following task to meet our compliance. These list of hardening task were taken from  [DISA STIG profile for Red Hat Enterprise Linux 7](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html)
 
  1.  System Settings 
@@ -36,7 +36,8 @@ In this guide we carry out the following task to meet our compliance. These list
 	- FTP Server  
 	- SNMP Server
 
+##
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkzOTQwMjBdfQ==
+eyJoaXN0b3J5IjpbMjcxODM0NTQyXX0=
 -->
