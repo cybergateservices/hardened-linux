@@ -49,9 +49,9 @@ CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, a
  - [Ensure ``/home`` Located On Separate Partition](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_partition_for_home)
 
 The relevent kickstart code to achieve our goals  in an automated passion is below.
-``
-```# Create primary system partition for /boot
-```part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"
+
+```# Create primary system partition for /boot``
+```part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"```
 
 ``# 30GB physical volume``
 
@@ -72,5 +72,5 @@ The relevent kickstart code to achieve our goals  in an automated passion is bel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODk0OTk2XX0=
+eyJoaXN0b3J5IjpbMjA5OTI3NDI5OF19
 -->
