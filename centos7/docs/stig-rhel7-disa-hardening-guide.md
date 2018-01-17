@@ -101,8 +101,9 @@ To meet requirements enforced by our security policy we need to keep the softwar
 In this section we need to meet  the following requirements.
 
  - [Ensure ```gpgcheck``` Enabled In Main Yum Configuration](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_ensure_gpgcheck_globally_activated)
+ - [Ensure Software Patches Installed](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_security_patches_up_to_date)
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI0NzM0NDhdfQ==
+eyJoaXN0b3J5IjpbLTk5NjY1NTEwOV19
 -->
