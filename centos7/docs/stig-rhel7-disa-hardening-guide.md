@@ -50,7 +50,9 @@ CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, a
 
 The relevent kickstart code to achieve our goals  in an automated passion is below.
 
-```# Create primary system partition for /boot``
+```
+# Create primary system partition for /boot
+```
 ```part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"```
 
 ``# 30GB physical volume``
@@ -72,5 +74,5 @@ The relevent kickstart code to achieve our goals  in an automated passion is bel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTI3NDI5OF19
+eyJoaXN0b3J5IjpbMzQ2MDQ2OTUwXX0=
 -->
