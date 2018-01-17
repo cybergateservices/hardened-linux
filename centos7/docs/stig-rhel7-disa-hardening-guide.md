@@ -96,7 +96,7 @@ To meet demands enforced by our security policy we need to keep the software up
 ```
 https://raw.githubusercontent.com/cybergateservices/hardened-linux/master/centos7/ks/stig-centos7-ks.cfg
 ```
-Since the above URL is very long you run in to mista
+Since the above URL is very long you run in to mistake
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjcwNzg2ODldfQ==
+eyJoaXN0b3J5IjpbLTkzNTE5ODg0M119
 -->
