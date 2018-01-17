@@ -97,8 +97,11 @@ https://git.io/vNCMc
 ```
 ## Updating Software
 To meet requirements enforced by our security policy we need to keep the software up to date using ```yum``` software management tool.
+
 In this section we need to meet  the following guidelines
 
+ - [Ensure ```gpgcheck`` Enabled In Main Yum Configuration]()
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzQyMTI2NF19
+eyJoaXN0b3J5IjpbMTI5NzkzODg0OF19
 -->
