@@ -54,23 +54,21 @@ The relevent kickstart code to achieve our goals  in an automated passion is bel
 # Create primary system partition for /boot
 part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"
 ```
-```
 # 30GB physical volume
-``part pv.01  --fstype="lvmpv" --ondisk=vda --size=30720 --encrypted --passphrase=PleaseChangeMe`
+part pv.01  --fstype="lvmpv" --ondisk=vda --size=30720 --encrypted --passphrase=PleaseChangeMe`
 volgroup vg_os pv.01
-
-logvol /              --fstype="xfs" --size=6144 --vgname=vg_os --name=lv_root ``   
-logvol /home          --fstype="xfs" --size=2048 --vgname=vg_os --name=lv_home    --fsoptions="rw,nodev,nosuid"``
-logvol /tmp           --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_tmp     --fsoptions="rw,nodev,noexec,nosuid"``
-logvol /var           --fstype="xfs" --size=4096 --vgname=vg_os --name=lv_var     --fsoptions="rw,nosuid"``
-logvol /var/log       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-log --fsoptions="rw,nodev,noexec,nosuid"``
-logvol /var/log/audit --fstype="xfs" --size=512  --vgname=vg_os --name=lv_var-aud --fsoptions="rw,nodev,noexec,nosuid"``
-logvol /var/tmp       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-tmp --fsoptions="rw,nodev,noexec,nosuid"``
-logvol /var/www       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-www --fsoptions="rw,nodev,nosuid"``
-logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap   --fsoptions="swap"``
+logvol /              --fstype="xfs" --size=6144 --vgname=vg_os --name=lv_root 
+logvol /home          --fstype="xfs" --size=2048 --vgname=vg_os --name=lv_home    --fsoptions="rw,nodev,nosuid"
+logvol /tmp           --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_tmp     --fsoptions="rw,nodev,noexec,nosuid"
+logvol /var           --fstype="xfs" --size=4096 --vgname=vg_os --name=lv_var     --fsoptions="rw,nosuid"
+logvol /var/log       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-log --fsoptions="rw,nodev,noexec,nosuid"
+logvol /var/log/audit --fstype="xfs" --size=512  --vgname=vg_os --name=lv_var-aud --fsoptions="rw,nodev,noexec,nosuid"
+logvol /var/tmp       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-tmp --fsoptions="rw,nodev,noexec,nosuid"
+logvol /var/www       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-www --fsoptions="rw,nodev,nosuid"
+logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap   --fsoptions="swap"
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDk2MjM3OF19
+eyJoaXN0b3J5IjpbLTE1NTA4ODI5Nl19
 -->
