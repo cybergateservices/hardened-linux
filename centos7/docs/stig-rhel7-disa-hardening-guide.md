@@ -48,9 +48,11 @@ CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, a
  - [Ensure ``/var/log/audit Located`` On Separate Partition](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_partition_for_var_log_audit)
  - [Ensure ``/home`` Located On Separate Partition](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_partition_for_home)
 
-The relevent kick
+The relevent kickstart code to achieve our goals  in an automated passion is below.
+``
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzUxOTYyOV19
+eyJoaXN0b3J5IjpbLTI5OTc4NjMxNl19
 -->
