@@ -147,10 +147,11 @@ In Linux password hashes are stored in ```/etc/shadow```. This file should be re
  - [All GIDs referenced in /etc/passwd must be defined in /etc/group](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_gid_passwd_group_same)
 ### Set Password Expiration Parameters 
 Users should be forced to change their passwords, in order to decrease the utility of compromised passwords. However, the need to change passwords often should be balanced against the risk that users will reuse or write down passwords if forced to change them too often.  How it can be done is described [here](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_password_expiration).
- - List item
+ - [Set Password Minimum Age](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_accounts_minimum_age_login_defs)
+ - 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE0ODg2NzVdfQ==
+eyJoaXN0b3J5IjpbLTEwNDQwNTY3NjhdfQ==
 -->
