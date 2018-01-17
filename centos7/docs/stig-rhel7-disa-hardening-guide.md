@@ -129,6 +129,7 @@ The recommendations in this section are designed to ensure that the system's fea
 [ExecShield](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_enable_execshield_settings) describes kernel features that provide protection against exploitation of memory corruption errors such as buffer overflows
  - [Enable Randomized Layout of Virtual Address Space](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_sysctl_kernel_randomize_va_space)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3ODQ2MTM0XX0=
+eyJoaXN0b3J5IjpbOTg0NjM5OTA4XX0=
 -->
