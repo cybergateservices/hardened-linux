@@ -136,8 +136,9 @@ SELinux is an Access Control  feature of the Linux kernel which can be used to g
  - [Map System Users To The Appropriate SELinux Role](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_selinux_user_login_roles)
 ##  Account and Access Control 
 This section introduces mechanisms for restricting access to accounts under Red Hat Enterprise Linux 7.
-### Protect Accounts by Restricting Password-Based LoginPassword-based login is vulnerable to guessing of weak passwords, and to sniffing and man-in-the-middle attacks against passwords entered over a network or at an insecure console. Therefore, mechanisms for accessing accounts by entering usernames and passwords should be restricted to those which are operationally necessary.
+### Protect Accounts by Restricting Password-Based Login
+Password-based login is vulnerable to guessing of weak passwords, and to sniffing and man-in-the-middle attacks against passwords entered over a network or at an insecure console. Therefore, mechanisms for accessing accounts by entering usernames and passwords should be restricted to those which are operationally necessary.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ1NzU3OTBdfQ==
+eyJoaXN0b3J5IjpbLTYzMTgxMDU4OF19
 -->
