@@ -50,7 +50,7 @@ CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, a
 
 Additionally we will be creating separate partitions for ```/var, /var/log, /var/tmp, and /var/www``` also.
 
-If you do not need encrtpte
+If you do not need encrtpted 
 
 The relevant kickstart code to achieve our goals  in an automated passion is below.
 ```
@@ -72,5 +72,5 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI3NjMyNTFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDY0NTczOTldfQ==
 -->
