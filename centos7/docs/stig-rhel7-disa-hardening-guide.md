@@ -109,9 +109,9 @@ In this section we need to meet  the following requirements.
 ## System and Software Integrity
 Please refer to the [System and Software Integrity](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_integrity)  section of the guide to learn more about this.
 ## GNOME Desktop Environment 
-Since this guide do not use the graphical interface we will not discuss it here. Please refer to the [GNOME Desktop Environment](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_gnome) section of the STIG guide if you have a requirement 
+Since this guide do not use the graphical interface we will not discuss it here. Please refer to the [GNOME Desktop Environment](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_gnome) section of the STIG guide if you have a requirement to us
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTM0OTE5MV19
+eyJoaXN0b3J5IjpbMzQ0MDM4MDUwXX0=
 -->
