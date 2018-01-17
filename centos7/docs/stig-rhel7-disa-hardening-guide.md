@@ -39,8 +39,8 @@ In this guide we carry out the following tasks to meet our compliance. These lis
 
 To meet our compliance we will be carrying out our tasks here in a certain order. Also we will be doing some additional hardening steps which are not specified by the policy.  Some of such task are creating a kickstart installation with disk encryption, creating SSH  keys with high grade encryption etc.
 ## Kickastart Installation
-It will not be possible  
+It will not be possible and par 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MjY3MjU1XX0=
+eyJoaXN0b3J5IjpbLTE3MDU2NTM5MDNdfQ==
 -->
