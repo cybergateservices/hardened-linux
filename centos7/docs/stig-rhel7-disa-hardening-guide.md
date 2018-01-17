@@ -96,7 +96,7 @@ To meet demands enforced by our security policy we need to keep the software up
 ```
 https://raw.githubusercontent.com/cybergateservices/hardened-linux/master/centos7/ks/stig-centos7-ks.cfg
 ```
-Since the above URL is very long you run in to problems it in the installer as a kernel parameter. To make the life easier you can us
+Since the above URL is very long you run in to problems it in the installer as a kernel parameter. To make the life easier you can use 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzQxNDI0M119
+eyJoaXN0b3J5IjpbMTUyNjk3MDMzOF19
 -->
