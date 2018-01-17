@@ -142,10 +142,11 @@ Password-based login is vulnerable to guessing of weak passwords, and to sniffin
 Direct root logins should be allowed only for emergency use. Please  follow the [recommendation](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_root_logins) in the guide.
  - [Verify Only Root Has UID 0](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_accounts_no_uid_except_zero)
 ### Verify Proper Storage and Existence of Password Hashes
+In Linux password hashes are stored in ```/etc/shadow
 Click [here](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_password_storage) to learn more.
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc5Nzk2ODldfQ==
+eyJoaXN0b3J5IjpbLTMxNjI2MzQwOV19
 -->
