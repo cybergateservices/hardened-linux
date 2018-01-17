@@ -139,8 +139,9 @@ This section introduces mechanisms for restricting access to accounts under Red 
 ### Protect Accounts by Restricting Password-Based Login
 Password-based login is vulnerable to guessing of weak passwords, and to sniffing and man-in-the-middle attacks against passwords entered over a network or at an insecure console.  This section enforce the following rules.
 #### Restrict Root Login
-Direct root logins should be allowed only for emergency use. Please read [recommendation(https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_root_logins) 
+Direct root logins should be allowed only for emergency use. Please  follow the [recommendation(https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_root_logins) 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2NDM3Mjk2XX0=
+eyJoaXN0b3J5IjpbMTI3ODQ0OTU1Nl19
 -->
