@@ -104,8 +104,9 @@ In this section we need to meet  the following requirements.
  - [Ensure Software Patches Installed](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_security_patches_up_to_date)
  - [Ensure YUM Removes Previous Package Versions](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_clean_components_post_updating)
  - [Ensure ```gpgcheck``` Enabled for Local Packages ](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_ensure_gpgcheck_local_packages)
- - [Ensure ```gpgcheck``` Enabled for Repository Metadata]()
+ - [Ensure ```gpgcheck``` Enabled for Repository Metadata](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_ensure_gpgcheck_repo_metadata)
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjgxODQwMl19
+eyJoaXN0b3J5IjpbMTQzMTI0MTIxOV19
 -->
