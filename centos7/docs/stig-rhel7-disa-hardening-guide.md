@@ -80,8 +80,9 @@ During the installation you can choose the relevant security policy so that you 
         profile = stig-rhel7-server-upstream
 %end
 ```
-
+## Updating Software
+To meet demands en
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjIyNzg2OF19
+eyJoaXN0b3J5IjpbLTY4MDUxMTA3Nl19
 -->
