@@ -103,8 +103,7 @@ In this section we need to meet  the following requirements.
  - [Ensure ```gpgcheck``` Enabled In Main Yum Configuration](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_ensure_gpgcheck_globally_activated)
  - [Ensure Software Patches Installed](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_security_patches_up_to_date)
  - [Ensure YUM Removes Previous Package Versions](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_clean_components_post_updating)
- - [Ensure ```gpgcheck``` Enabled for Local Packages ]()
-
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1OTMzNjYyXX0=
+eyJoaXN0b3J5IjpbLTQzMjAyNTEwOV19
 -->
