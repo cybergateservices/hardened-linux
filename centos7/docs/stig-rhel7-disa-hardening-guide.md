@@ -50,12 +50,14 @@ CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, a
 
 Additionally we will be creating separate partitions for ```/var, /var/log, /var/tmp, and /var/www``` also.
 
+If you do not need encrtpte
+
 The relevant kickstart code to achieve our goals  in an automated passion is below.
 ```
 # Create primary system partition for /boot
 part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"
 # Create 30GB physical volume and encrypt it using LUKS
-part pv.01  --fstype="lvmpv" --ondisk=vda --size=30720 --encrypted --passphrase=PleaseChangeMe`
+part pv.01  --fstype="lvmpv" --ondisk=vda --size=30720 --encrypted --passphrase=PleaseChangeMe
 volgroup vg_os pv.01
 logvol /              --fstype="xfs" --size=6144 --vgname=vg_os --name=lv_root 
 logvol /home          --fstype="xfs" --size=2048 --vgname=vg_os --name=lv_home    --fsoptions="rw,nodev,nosuid"
@@ -70,5 +72,5 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTcxNTUyOF19
+eyJoaXN0b3J5IjpbLTExNTI3NjMyNTFdfQ==
 -->
