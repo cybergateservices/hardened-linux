@@ -146,10 +146,11 @@ In Linux password hashes are stored in ```/etc/shadow```. This file should be re
  - [Prevent Log In to Accounts With Empty Password](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_no_empty_passwords)
  - [All GIDs referenced in /etc/passwd must be defined in /etc/group](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_gid_passwd_group_same)
 ### Set Password Expiration Parameters 
-Users should be forced to change their passwords, in order to decrease the utility of compromised passwords. However, the need to change passwords often should be balanced against the risk that users will reuse or write down passwords if forced to change them too often.  How it can be done 
+Users should be forced to change their passwords, in order to decrease the utility of compromised passwords. However, the need to change passwords often should be balanced against the risk that users will reuse or write down passwords if forced to change them too often.  How it can be done is described [here](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_password_expiration).
+
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY5ODAxODddfQ==
+eyJoaXN0b3J5IjpbMTIzMzA4NDAyN119
 -->
