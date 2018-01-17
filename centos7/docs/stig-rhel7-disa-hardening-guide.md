@@ -52,14 +52,10 @@ The relevent kickstart code to achieve our goals  in an automated passion is bel
 
 ```
 # Create primary system partition for /boot
-```
-```
 part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"
 ```
 ```
 # 30GB physical volume
-```
-
 ``part pv.01  --fstype="lvmpv" --ondisk=vda --size=30720 --encrypted --passphrase=PleaseChangeMe``
 
 ``volgroup vg_os pv.01``
@@ -77,5 +73,5 @@ part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDI5OTk5Nl19
+eyJoaXN0b3J5IjpbLTExMjcyNTU4NTBdfQ==
 -->
