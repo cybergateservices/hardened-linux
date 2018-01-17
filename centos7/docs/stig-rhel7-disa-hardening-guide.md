@@ -10,7 +10,7 @@ This benchmark is a direct port of a SCAP Security Guide benchmark developed for
 
 It is recommended to visit [DISA STIG profile for Red Hat Enterprise Linux 7](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html)  to learn more about this profile before you implement it. 
 
-This guide will not include any  command or configuration codes that you should execute or configure to achieve the security compliances in the SCAP security guide. Instead it  directs you to the appropriate links of the original guide which contains the detailed descriptions, rationales, commands, and remediation scripts that can be to achieve a single goal by a manual execution or configuration pertaining to a specific task .  The guide 
+This guide will not include any  command or configuration codes that you should execute or configure to achieve the security compliances in the SCAP security guide. Instead it  directs you to the appropriate links of the original guide which contains the detailed descriptions, rationales, commands, and remediation scripts that can be to achieve a single goal by a manual execution or configuration pertaining to a specific task .  The guide includes a brief descrption to undertand what compliances going to achive
 
 The intention of this guide is to provide you  an a automated solution to achieve the compliances in an idempotent and productive remediation mechanism.   We will be using an Ansible role to automate  majority percentage of compliances required by the DISA STIG Profile. 
 
@@ -160,5 +160,5 @@ Users should be forced to change their passwords, in order to decrease the utili
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODE2NTIyOV19
+eyJoaXN0b3J5IjpbMTU1OTEyOTU1MV19
 -->
