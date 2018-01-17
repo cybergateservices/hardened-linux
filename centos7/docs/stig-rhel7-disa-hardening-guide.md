@@ -139,8 +139,8 @@ This section introduces mechanisms for restricting access to accounts under Red 
 ### Protect Accounts by Restricting Password-Based Login
 Password-based login is vulnerable to guessing of weak passwords, and to sniffing and man-in-the-middle attacks against passwords entered over a network or at an insecure console.  This section enforce the following rules.
 #### Restrict Root Login
-Direct root logins should be allowed only for emergency use. Cliche
+Direct root logins should be allowed only for emergency use. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDA1NTU2NV19
+eyJoaXN0b3J5IjpbLTE5MTMyNzU5NDldfQ==
 -->
