@@ -87,9 +87,10 @@ Using the kickstart file directly from  this site you can install CentOS 7 in an
  - Using  [Oracle VirtualBox](https://www.virtualbox.org/) in Linux or Windows 
  - Using [Vulre](https://www.vultr.com/)
 
+
 ## Updating Software
 To meet demands enforced by our security policy we need to keep the software up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDQ1NzQ3M119
+eyJoaXN0b3J5IjpbNDcyNjc5ODddfQ==
 -->
