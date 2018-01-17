@@ -94,13 +94,13 @@ https://raw.githubusercontent.com/cybergateservices/hardened-linux/master/centos
 Since the above URL is very long you run in to problems it in the installer as a kernel parameter. To make the life easier you can use the shortener [Git.io](https://git.io/) form above URL as below.
 ```
 https://git.io/vNCMc
-
+```
 
 ## Updating Software
-To meet demands enforced by our security policy we need to keep the software up
-```
+To meet demands enforced by our security policy we need to keep the software update u
+
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTY4MDI0NF19
+eyJoaXN0b3J5IjpbODE5Njc1MjA5XX0=
 -->
