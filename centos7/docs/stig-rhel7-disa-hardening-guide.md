@@ -115,8 +115,9 @@ In Linux ```sudo``` provides the ability to delegate authority to certain users,
 
  - [Ensure Users Re-Authenticate for Privilege Escalation - sudo NOPASSWD](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_sudo_remove_nopasswd)
  - [Ensure Users Re-Authenticate for Privilege Escalation - sudo !authenticate](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_sudo_remove_no_authenticate)
+## File Permissions and Masks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTk4ODUzN119
+eyJoaXN0b3J5IjpbMTExNTk2MTY4OV19
 -->
