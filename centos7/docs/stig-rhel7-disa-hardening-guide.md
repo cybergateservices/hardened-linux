@@ -98,11 +98,11 @@ https://git.io/vNCMc
 ## Updating Software
 To meet requirements enforced by our security policy we need to keep the software up to date using ```yum``` software management tool.
 
-In this section we need to meet  the following guidelines
+In this section we need to meet  the following requirements.
 
  - [Ensure ```gpgcheck``` Enabled In Main Yum Configuration](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_ensure_gpgcheck_globally_activated)
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTUzMDAzNV19
+eyJoaXN0b3J5IjpbLTE5NjI0NzM0NDhdfQ==
 -->
