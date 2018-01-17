@@ -39,9 +39,9 @@ In this guide we carry out the following tasks to meet our compliance. These lis
 
 To meet our compliance we will be carrying out our tasks here in a certain order. Also we will be doing some additional hardening steps which are not specified by the policy.  Some of such task are creating a kickstart installation with disk encryption, creating SSH  keys with high grade encryption etc.
 ## Kickastart Installation
-It will not be possible and practical to change the partition during a remediation steps on a production systems. If you installing a system which you need to comply with  this STIG policy we  suggest you to use the [kickstart file](hardened-linux/centos7/ks/stig-centos7-ks.cfg) which we include i
+It will not be possible and practical to change the partition during a remediation steps on a production systems. If you installing a system which you need to comply with  this STIG policy we  suggest you to use the [kickstart file](hardened-linux/centos7/ks/stig-centos7-ks.cfg) which we include in t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3Mzk1MjE4XX0=
+eyJoaXN0b3J5IjpbLTE4MDA0NzczODRdfQ==
 -->
