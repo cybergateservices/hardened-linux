@@ -71,9 +71,9 @@ logvol /var/tmp       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-tm
 logvol /var/www       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-www --fsoptions="rw,nodev,nosuid"
 logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap   --fsoptions="swap"
 ```
-###
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM3Njc2MzVdfQ==
+eyJoaXN0b3J5IjpbNTkyNTYwMjUyXX0=
 -->
