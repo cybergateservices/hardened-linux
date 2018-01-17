@@ -118,7 +118,7 @@ In Linux ```sudo``` provides the ability to delegate authority to certain users,
 ## File Permissions and Masks
 Traditional Unix security relies heavily on file and directory permissions to prevent unauthorized users from reading or modifying files to which they should not have access.  In this section of the guide we need to achieve the following requirements.
  - [Add ```nosuid``` Option to Removable Media Partitions](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_mount_option_nosuid_removable_partitions)
- - 
+ - [Add ```nosuid``` Option to ```/home`]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODc5NjA2OF19
+eyJoaXN0b3J5IjpbNTUyMzIxNzhdfQ==
 -->
