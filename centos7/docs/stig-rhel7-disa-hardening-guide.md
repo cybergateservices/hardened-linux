@@ -149,9 +149,10 @@ In Linux password hashes are stored in ```/etc/shadow```. This file should be re
 Users should be forced to change their passwords, in order to decrease the utility of compromised passwords. However, the need to change passwords often should be balanced against the risk that users will reuse or write down passwords if forced to change them too often.  How it can be done is described [here](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_password_expiration).
  - [Set Password Minimum Age](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_accounts_minimum_age_login_defs)
  - [Set Password Maximum Age](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_accounts_maximum_age_login_defs)
+ - 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDUxMTcyMV19
+eyJoaXN0b3J5IjpbLTE5NzAyNzk2NjRdfQ==
 -->
