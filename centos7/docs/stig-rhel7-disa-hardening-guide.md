@@ -97,7 +97,7 @@ https://git.io/vNCMc
 ```
 ## Updating Software
 To meet demands enforced by our security policy we need to keep the software update using ```yum``` software management tool.
-In this section we need to meet  the following guidelin
+In this section we need to meet  the following guidelines
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2OTkwMzEwXX0=
+eyJoaXN0b3J5IjpbLTE2NzA2OTg2MzJdfQ==
 -->
