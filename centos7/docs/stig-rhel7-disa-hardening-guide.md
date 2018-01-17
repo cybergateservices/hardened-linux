@@ -84,12 +84,12 @@ During the installation you can choose the relevant security policy so that you 
 
 Using the kickstart file directly from  this site you can install CentOS 7 in any virtual, baremetal, or cloud environment  that support kickstart  installation. At the end of this guide you will learn how to deploy a kickstart installing in  the following environments
 
- - Using  [Oracle VirtualBox](https://www.virtualbox.org/ in Linux or Windows 
+ - Using  [Oracle VirtualBox](https://www.virtualbox.org/) in Linux or Windows 
  - Using [Vulre](https://www.vultr.com/)
 
 ## Updating Software
 To meet demands enforced by our security policy we need to keep the software up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTYzMjg4XX0=
+eyJoaXN0b3J5IjpbMTk0NDQ1NzQ3M119
 -->
