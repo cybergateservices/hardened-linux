@@ -73,9 +73,9 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 ```
 ### Choosing anaconda security policy
 During the installation you can choose the relevant security policy so that you can several security requirement automated. In our kickstart file we will call RHLE7 STIG upstream policy for CentOS 7 by adding the following codes.
-
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzY2NjI5Ml19
+eyJoaXN0b3J5IjpbLTEwNTIwNjMxNzZdfQ==
 -->
