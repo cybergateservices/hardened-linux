@@ -81,11 +81,11 @@ During the installation you can choose the relevant security policy so that you 
 %end
 ```
 ## Installing the Operating System
-Using the kikcs
+Using the kic
 
 ## Updating Software
 To meet demands enforced by our security policy we need to keep the software up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDg1MzUxMV19
+eyJoaXN0b3J5IjpbNzk3Nzg3NDA3XX0=
 -->
