@@ -62,16 +62,16 @@ The relevent kickstart code to achieve our goals  in an automated passion is bel
 
 ``logvol /              --fstype="xfs" --size=6144 --vgname=vg_os --name=lv_root ``   
 ``logvol /home          --fstype="xfs" --size=2048 --vgname=vg_os --name=lv_home    --fsoptions="rw,nodev,nosuid"``
-logvol /tmp           --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_tmp     --fsoptions="rw,nodev,noexec,nosuid"
-logvol /var           --fstype="xfs" --size=4096 --vgname=vg_os --name=lv_var     --fsoptions="rw,nosuid"
-logvol /var/log       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-log --fsoptions="rw,nodev,noexec,nosuid"
-logvol /var/log/audit --fstype="xfs" --size=512  --vgname=vg_os --name=lv_var-aud --fsoptions="rw,nodev,noexec,nosuid"
-logvol /var/tmp       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-tmp --fsoptions="rw,nodev,noexec,nosuid"
-logvol /var/www       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-www --fsoptions="rw,nodev,nosuid"
-logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap   --fsoptions="swap"
+``logvol /tmp           --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_tmp     --fsoptions="rw,nodev,noexec,nosuid"``
+``logvol /var           --fstype="xfs" --size=4096 --vgname=vg_os --name=lv_var     --fsoptions="rw,nosuid"``
+``logvol /var/log       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-log --fsoptions="rw,nodev,noexec,nosuid"``
+``logvol /var/log/audit --fstype="xfs" --size=512  --vgname=vg_os --name=lv_var-aud --fsoptions="rw,nodev,noexec,nosuid"``
+``logvol /var/tmp       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-tmp --fsoptions="rw,nodev,noexec,nosuid"``
+``logvol /var/www       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-www --fsoptions="rw,nodev,nosuid"``
+``logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap   --fsoptions="swap"``
 ``
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ5NDAwMDZdfQ==
+eyJoaXN0b3J5IjpbLTU5MzkyMzU4XX0=
 -->
