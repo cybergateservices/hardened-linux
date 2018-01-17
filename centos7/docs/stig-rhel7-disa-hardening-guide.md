@@ -125,7 +125,7 @@ Traditional Unix security relies heavily on file and directory permissions to pr
  - [Ensure All World-Writable Directories Are Owned by a System Account](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_dir_perms_world_writable_system_owned)
 ## Restrict Programs from Dangerous Execution Patterns
 The recommendations in this section are designed to ensure that the system's features to protect against potentially dangerous program execution are activated.
-
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg0NTMzMTVdfQ==
+eyJoaXN0b3J5IjpbMTQ4MjcyNjMwNF19
 -->
