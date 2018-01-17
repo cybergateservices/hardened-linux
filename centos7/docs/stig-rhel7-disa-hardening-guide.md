@@ -12,7 +12,7 @@ It is recommended to visit [DISA STIG profile for Red Hat Enterprise Linux 7](ht
 
 This guide will not include any  command or configuration codes that you should execute or configure to achieve the security compliances in the SCAP security guide. Instead it provides  you the appropriate links of the original guide which contains the detailed descriptions, rationals, commands, and remediation scripts that can be achieved a single goal by a manual execution or configuration pertaining to a specific task . 
 
-The intention of this guide is to provide you  an a automated solution to achieve the compliances in an idempotent and productive remediation mechanism.   We will be using an Ansible role to automate  majority percentage of compliances. 
+The intention of this guide is to provide you  an a automated solution to achieve the compliances in an idempotent and productive remediation mechanism.   We will be using an Ansible role to automate  majority percentage of compliances required
 
 ## SCAP vs OpenSCAP
 
@@ -160,5 +160,5 @@ Users should be forced to change their passwords, in order to decrease the utili
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDEyODI2NV19
+eyJoaXN0b3J5IjpbLTE2NDI4MTM1NzRdfQ==
 -->
