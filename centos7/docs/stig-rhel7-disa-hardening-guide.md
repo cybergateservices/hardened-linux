@@ -72,9 +72,9 @@ logvol /var/www       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-ww
 logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap   --fsoptions="swap"
 ```
 ### Choosing anaconda security policy
-During the installation 
+During the installation you 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzIyMTY1OF19
+eyJoaXN0b3J5IjpbLTE3NTUzMzIyM119
 -->
