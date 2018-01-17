@@ -121,7 +121,7 @@ Traditional Unix security relies heavily on file and directory permissions to pr
  - [Add ```nosuid``` Option to ```/home```](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_mount_option_home_nosuid)
  - [Disable ```modprobe``` Loading of USB Storage Driver ](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_kernel_module_usb-storage_disabled)
  - [Disable the ```autofs``` Automounter](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_service_autofs_disabled)
- - [
+ - [Ensure All Files Are Owned by a User
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTY5MjExM119
+eyJoaXN0b3J5IjpbMTIxMDgyNDg0N119
 -->
