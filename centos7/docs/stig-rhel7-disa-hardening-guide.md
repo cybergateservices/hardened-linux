@@ -71,7 +71,7 @@ logvol /var/tmp       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-tm
 logvol /var/www       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-www --fsoptions="rw,nodev,nosuid"
 logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap   --fsoptions="swap"
 ```
-### Choosing anaconda security policy
+### Choosing an Anaconda Security Policy
 During the installation you can choose the relevant security policy so that you can get several security requirement automated. In our kickstart file we will call RHLE7 STIG DISA upstream policy for CentOS 7 by adding the following codes.
 ```
 # OSCAP Anaconda add-on for RHEL7 STIG
@@ -92,5 +92,5 @@ Using the kickstart file directly from  this site you can install CentOS 7 in an
 To meet demands enforced by our security policy we need to keep the software up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNjc5ODddfQ==
+eyJoaXN0b3J5IjpbLTE0MzkxNzU4OTRdfQ==
 -->
