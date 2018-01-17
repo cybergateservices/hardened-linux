@@ -81,10 +81,10 @@ During the installation you can choose the relevant security policy so that you 
 %end
 ```
 ## Installing the Operating System
-Using the kickstart file ditectly from  this site you can install CentOS 7 in any virtual, baremetal, or cloud privider 
+Using the kickstart file ditectly from  this site you can install CentOS 7 in any virtual, baremetal, or cloud privider that 
 ## Updating Software
 To meet demands enforced by our security policy we need to keep the software up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MTk2MjJdfQ==
+eyJoaXN0b3J5IjpbNTI5MjEwMjU3XX0=
 -->
