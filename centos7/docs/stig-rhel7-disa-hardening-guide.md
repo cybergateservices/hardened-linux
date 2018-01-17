@@ -50,8 +50,7 @@ CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, a
 
 Additionally we will be creating separate partitions for ```/var, /var/log, /var/tmp, and /var/www``` also.
 
-If you do not need encrypted storage you can avoid the code ```--encrypted --passphrase=PleaseChangeMe```
-
+If you do not need encrypted storage you can avoid the code ```--encrypted --passphrase=PleaseChangeMe```. This  will give you an additional layer of protection.
 
 The relevant kickstart code to achieve our goals  in an automated passion is below.
 ```
@@ -73,5 +72,5 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDg1MzAyXX0=
+eyJoaXN0b3J5IjpbMTEyNjU4OTQ4M119
 -->
