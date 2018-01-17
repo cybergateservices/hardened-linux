@@ -120,6 +120,7 @@ Traditional Unix security relies heavily on file and directory permissions to pr
  - [Add ```nosuid``` Option to Removable Media Partitions](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_mount_option_nosuid_removable_partitions)
  - [Add ```nosuid``` Option to ```/home```](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_mount_option_home_nosuid)
  - [Disable ```modprobe``` Loading of USB Storage Driver ](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_kernel_module_usb-storage_disabled)
+ - [Disable the Automounter]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MjE4NzU0XX0=
+eyJoaXN0b3J5IjpbMjA5NjIwNTkxNF19
 -->
