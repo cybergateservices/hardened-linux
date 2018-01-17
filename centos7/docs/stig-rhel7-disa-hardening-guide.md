@@ -144,10 +144,10 @@ Direct root logins should be allowed only for emergency use. Please  follow the 
 ### Verify Proper Storage and Existence of Password Hashes
 In Linux password hashes are stored in ```/etc/shadow```. This file should be readable only by processes running with root credentials, preventing users from casually accessing others' password hashes and attempting to crack them. Click [here](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_password_storage) to learn more.
  - [Prevent Log In to Accounts With Empty Password](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_no_empty_passwords)
- - 
+ - [All GIDs referenced in /etc/passwd must be defined in /etc/group](
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDQ4MTQwNV19
+eyJoaXN0b3J5IjpbMjAwMjM2ODA1Nl19
 -->
