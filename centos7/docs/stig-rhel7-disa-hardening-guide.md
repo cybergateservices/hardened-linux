@@ -111,9 +111,10 @@ Please refer to the [System and Software Integrity](https://static.open-scap.org
 ## GNOME Desktop Environment 
 Since this guide do not use the graphical interface we will not discuss it here. Please refer to the [GNOME Desktop Environment](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_gnome) section of the STIG guide if you have a requirement to use it. 
 ## Using Sudo
-In Linux ```sudo``` 
+In Linux ```sudo``` provides the ability to delegate authority to certain users, groups of users, or system administrators. We need to meet the following requirements with ```sudo```
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTcyMTEzM119
+eyJoaXN0b3J5IjpbMjEyNTM5ODA2Ml19
 -->
