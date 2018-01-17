@@ -81,10 +81,12 @@ During the installation you can choose the relevant security policy so that you 
 %end
 ```
 ## Installing the Operating System
-Using the kickstart file ditectly from  this site you can install CentOS 7 in any virtual, baremetal, or cloud privider that support kickstart  installation. At the end of this guide you will learn how to deplaoy a kicksrat installing in your 
+
+Using the kickstart file directly from  this site you can install CentOS 7 in any virtual, baremetal, or cloud privider that support kickstart  installation. At the end of this guide you will learn how to deplaoy a kicksrat installing in  the following enviorenments
+
 ## Updating Software
 To meet demands enforced by our security policy we need to keep the software up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzM2NTUyXX0=
+eyJoaXN0b3J5IjpbLTQ2OTEyNzY0NF19
 -->
