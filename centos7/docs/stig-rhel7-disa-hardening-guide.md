@@ -74,7 +74,7 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 ### Choosing anaconda security policy
 During the installation you can choose the relevant security policy so that you can several security requirement automated. In our kickstart file we will call RHLE7 STIG DISA upstream policy for CentOS 7 by adding the following codes.
 ```
-# OSCAP Anaconda add-on for RHEL7 
+# OSCAP Anaconda add-on for RHEL7 Stig
 
 %addon org_fedora_oscap
         content-type = scap-security-guide
@@ -84,5 +84,5 @@ During the installation you can choose the relevant security policy so that you 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTY4MjA3M119
+eyJoaXN0b3J5IjpbLTE1NDk1MDE1OTJdfQ==
 -->
