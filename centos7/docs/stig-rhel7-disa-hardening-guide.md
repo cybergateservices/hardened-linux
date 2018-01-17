@@ -97,10 +97,10 @@ https://git.io/vNCMc
 ```
 
 ## Updating Software
-To meet demands enforced by our security policy we need to keep the software update using ```y
+To meet demands enforced by our security policy we need to keep the software update using ```yu
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzQ3NjU2OV19
+eyJoaXN0b3J5IjpbLTE0MTYxMjMwMjBdfQ==
 -->
