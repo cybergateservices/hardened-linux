@@ -47,7 +47,7 @@ CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, a
  - [Ensure ``/var`` Located On Separate Partition](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_partition_for_var)
  - [Ensure ``/var/log/audit Located`` On Separate Partition](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_partition_for_var_log_audit)
  - [Ensure ``/home`` Located On Separate Partition](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_partition_for_home) 
-Addtionally we will be creating seperate partitions for /var, /var/log, /var/tmp, and /var/www also
+Additionally we will be creating separate partitions for ```/var, /var/log, /var/tmp, and /var/www``` also.
 
 
 The relevant kickstart code to achieve our goals  in an automated passion is below.
@@ -70,5 +70,5 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTI0NjExXX0=
+eyJoaXN0b3J5IjpbMTA5OTU2NTEwMl19
 -->
