@@ -39,8 +39,8 @@ In this guide we carry out the following tasks to meet our compliance. These lis
 
 To meet our compliance we will be carrying out our tasks here in a certain order. Also we will be doing some additional hardening steps which are not specified by the policy.  Some of such task are creating a kickstart installation with disk encryption, creating SSH  keys with high grade encryption etc.
 ## Kickastart Installation
-It will not be possible and practical to change the partition during a remediation steps on a production systems. If you installing a system which you need to comply with  this STIS =
+It will not be possible and practical to change the partition during a remediation steps on a production systems. If you installing a system which you need to comply with  this STI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzM0Mjc4OF19
+eyJoaXN0b3J5IjpbMzMwOTY3OTQwXX0=
 -->
