@@ -41,9 +41,9 @@ To meet our compliance we will be carrying out our tasks here in a certain order
 ## Kickastart Installation
 It will not be possible and practical to change the partition during  remediation steps  on a production systems after having done your security scan. If you installing a system which you need to comply with  this STIG policy we  suggest you to use the [kickstart file](hardened-linux/centos7/ks/stig-centos7-ks.cfg) which we have included in this [GitHub project](https://github.com/cybergateservices/hardened-linux). This section of the document describes the sections of the kickstart file with reference to our security policy. 
 ### Disk Partitions
-CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, and swap.``` and you need to craetes
+CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, and swap.``` and you need to cr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDkzNjY5M119
+eyJoaXN0b3J5IjpbMTkxNzkxMjgyNV19
 -->
