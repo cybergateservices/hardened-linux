@@ -47,9 +47,10 @@ CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, a
  - [Ensure ``/var`` Located On Separate Partition](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_partition_for_var)
  - [Ensure ``/var/log/audit Located`` On Separate Partition](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_partition_for_var_log_audit)
  - [Ensure ``/home`` Located On Separate Partition](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_partition_for_home)
- - 
- - 
+
+The relev
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjExNzc1MDVdfQ==
+eyJoaXN0b3J5IjpbLTMxNzA0MzQ0OF19
 -->
