@@ -52,6 +52,7 @@ Additionally we will be creating separate partitions for ```/var, /var/log, /var
 
 If you do not need encrypted storage you can avoid the code ```--encrypted --passphrase=PleaseChangeMe```
 
+
 The relevant kickstart code to achieve our goals  in an automated passion is below.
 ```
 # Create primary system partition for /boot
@@ -72,5 +73,5 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDYzMTgxNl19
+eyJoaXN0b3J5IjpbLTU2MDg1MzAyXX0=
 -->
