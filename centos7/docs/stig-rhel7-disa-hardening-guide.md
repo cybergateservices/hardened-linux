@@ -53,7 +53,6 @@ The relevent kickstart code to achieve our goals  in an automated passion is bel
 ```
 # Create primary system partition for /boot
 part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"
-```
 # 30GB physical volume
 part pv.01  --fstype="lvmpv" --ondisk=vda --size=30720 --encrypted --passphrase=PleaseChangeMe`
 volgroup vg_os pv.01
@@ -70,5 +69,5 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA4ODI5Nl19
+eyJoaXN0b3J5IjpbLTIwODkzMTQ2NTZdfQ==
 -->
