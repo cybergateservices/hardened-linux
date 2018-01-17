@@ -10,7 +10,7 @@ This benchmark is a direct port of a SCAP Security Guide benchmark developed for
 
 It is recommended to visit [DISA STIG profile for Red Hat Enterprise Linux 7](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html)  to learn more about this profile before you implement it. 
 
-This guide will not mention and command or code that you should execute or configure. Instead it provides  you the appropriate links of the orriginal guide which contains the detailed descriptions, rationals, commands, and remediation scrpts that can be achieved a single goal. The intetion of this guide is to rovide an a automated solution to achieve
+This guide will not mention and command or code that you should execute or configure. Instead it provides  you the appropriate links of the orriginal guide which contains the detailed descriptions, rationals, commands, and remediation scrpts that can be achieved a single goal. The intetion of this guide is to rovide an a automated solution to achieve t
 
 ## SCAP vs OpenSCAP
 
@@ -158,5 +158,5 @@ Users should be forced to change their passwords, in order to decrease the utili
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzAxMjkyOV19
+eyJoaXN0b3J5IjpbMjAwMzE0NzcxXX0=
 -->
