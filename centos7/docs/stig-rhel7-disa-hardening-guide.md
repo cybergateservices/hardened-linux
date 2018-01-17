@@ -9,9 +9,10 @@ This benchmark is a direct port of a SCAP Security Guide benchmark developed for
 * CentOS has its own build system, compiler options, patchsets, and is a community supported, non-commercial operating system. CentOS does not inherit certifications or evaluations from Red Hat Enterprise Linux. As such, some configuration rules (such as those requiring FIPS 140-2 encryption) will continue to fail on CentOS.
 
 It is recommended to visit [DISA STIG profile for Red Hat Enterprise Linux 7](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html)  to learn more about this profile before you implement it. 
+
 This guide will not include any  command or configuration codes that you should execute or configure to achieve the security compliances in the SCAP security guide. Instead it provides  you the appropriate links of the original guide which contains the detailed descriptions, rationals, commands, and remediation scripts that can be achieved a single goal by a manual execution or configuration pertaining to a specific task . 
 
-The intention of this guide is to provide you  an a automated solution to achieve the compliances in an idempotent and productive remediation mechanism. 
+The intention of this guide is to provide you  an a automated solution to achieve the compliances in an idempotent and productive remediation mechanism.   We will be usin
 
 ## SCAP vs OpenSCAP
 
@@ -159,5 +160,5 @@ Users should be forced to change their passwords, in order to decrease the utili
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5MzM3OTM0XX0=
+eyJoaXN0b3J5IjpbMTQzNjkwNjAzOF19
 -->
