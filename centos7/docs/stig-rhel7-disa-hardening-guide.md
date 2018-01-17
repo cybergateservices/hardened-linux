@@ -60,7 +60,7 @@ part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"
 part pv.01  --fstype="lvmpv" --ondisk=vda --size=30720 --encrypted --passphrase=PleaseChangeMe
 # Create the volume groups vg_os 
 volgroup vg_os pv.01
-# Create logical volumes 
+# Create logical volumes. 
 logvol /              --fstype="xfs" --size=6144 --vgname=vg_os --name=lv_root 
 logvol /home          --fstype="xfs" --size=2048 --vgname=vg_os --name=lv_home    --fsoptions="rw,nodev,nosuid"
 logvol /tmp           --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_tmp     --fsoptions="rw,nodev,noexec,nosuid"
@@ -71,8 +71,9 @@ logvol /var/tmp       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-tm
 logvol /var/www       --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_var-www --fsoptions="rw,nodev,nosuid"
 logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap   --fsoptions="swap"
 ```
+###
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjU2NDE3Ml19
+eyJoaXN0b3J5IjpbLTEwMDM3Njc2MzVdfQ==
 -->
