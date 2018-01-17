@@ -97,10 +97,10 @@ https://git.io/vNCMc
 ```
 
 ## Updating Software
-To meet demands enforced by our security policy we need to keep the software update using ```yum``` software 
+To meet demands enforced by our security policy we need to keep the software update using ```yum``` software mana
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI1NzMzNzZdfQ==
+eyJoaXN0b3J5IjpbMTA4MDA0NzgxNV19
 -->
