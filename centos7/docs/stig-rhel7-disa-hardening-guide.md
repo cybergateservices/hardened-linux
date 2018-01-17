@@ -132,8 +132,9 @@ The recommendations in this section are designed to ensure that the system's fea
 SELinux is an Access Control  feature of the Linux kernel which can be used to guard against misconfigured or compromised programs. This guide recommends that SELinux be enabled using the default (targeted) policy on every Red Hat system, unless that system has unusual requirements which make a stronger policy appropriate. Recommends to enable following rules.
  - [Ensure SELinux State is Enforcing](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_selinux_state)
  - [Configure SELinux Policy](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_selinux_policytype)
+ - [Ensure No Device Files are Unlabeled by SELinux](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_selinux_all_devicefiles_labeled)
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MDQxODAxXX0=
+eyJoaXN0b3J5IjpbLTE4MDc5ODcyMDBdfQ==
 -->
