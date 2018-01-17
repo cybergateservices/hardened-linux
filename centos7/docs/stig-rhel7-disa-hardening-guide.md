@@ -43,8 +43,8 @@ It will not be possible and practical to change the partition during  remediatio
 ### Disk Partitions
 CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, and swap.``` and you need to creating separate partitions for the following mount points. 
 
- - Ensure ``/tmp Located On Separate Partition 
+ - Ensure ```/tmp Located On Separate Partition 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjYyNzk5M119
+eyJoaXN0b3J5IjpbNzgxODM0MDczXX0=
 -->
