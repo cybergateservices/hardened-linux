@@ -138,8 +138,9 @@ SELinux is an Access Control  feature of the Linux kernel which can be used to g
 This section introduces mechanisms for restricting access to accounts under Red Hat Enterprise Linux 7.
 ### Protect Accounts by Restricting Password-Based Login
 Password-based login is vulnerable to guessing of weak passwords, and to sniffing and man-in-the-middle attacks against passwords entered over a network or at an insecure console.  This section enforce the following rules.
- - [Restrict Root Logins](
+#### Restrict Root Login
+Direct root logins should be allowed only for emergency use. Cliche
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTgyNjE5MV19
+eyJoaXN0b3J5IjpbLTI2MDA1NTU2NV19
 -->
