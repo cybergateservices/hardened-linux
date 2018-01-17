@@ -54,7 +54,7 @@ The relevant kickstart code to achieve our goals  in an automated passion is bel
 ```
 # Create primary system partition for /boot
 part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"
-# Create 30GB physical volume and encrypt it using LUK
+# Create 30GB physical volume and encrypt it using LUKS
 part pv.01  --fstype="lvmpv" --ondisk=vda --size=30720 --encrypted --passphrase=PleaseChangeMe`
 volgroup vg_os pv.01
 logvol /              --fstype="xfs" --size=6144 --vgname=vg_os --name=lv_root 
@@ -70,5 +70,5 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYzNjg0MzNdfQ==
+eyJoaXN0b3J5IjpbLTg0NTcxNTUyOF19
 -->
