@@ -96,9 +96,9 @@ Since the above URL is very long , you run in to problems  when you type  it in 
 https://git.io/vNCMc
 ```
 ## Updating Software
-To meet requirements enforced by our security policy we need to keep the software update using ```yum``` software management tool.
+To meet requirements enforced by our security policy we need to keep the software up to date using ```yum``` software management tool.
 In this section we need to meet  the following guidelines
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTA1NTg5M119
+eyJoaXN0b3J5IjpbMTQ4NzQyMTI2NF19
 -->
