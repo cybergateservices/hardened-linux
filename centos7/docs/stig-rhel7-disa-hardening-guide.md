@@ -91,7 +91,7 @@ Use the the following URL to call your kickstart file during installation.
 ```
 https://raw.githubusercontent.com/cybergateservices/hardened-linux/master/centos7/ks/stig-centos7-ks.cfg
 ```
-Since the above URL is very long , you run in to problems  when you type  it in the installer as a kernel parameter in the sysntax of ```ks=URL`` `. To make the life easier you can use the shortener [Git.io](https://git.io/) form above URL as below.
+Since the above URL is very long , you run in to problems  when you type  it in the installer as a kernel parameter in the sysntax of ```ks=URL`` . To make the life easier you can use the URL shortener [Git.io](https://git.io/)  to shorten above URL as below.
 ```
 https://git.io/vNCMc
 ```
@@ -100,5 +100,5 @@ To meet requirements enforced by our security policy we need to keep the softwar
 In this section we need to meet  the following guidelines
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDI0MDQ3OF19
+eyJoaXN0b3J5IjpbLTUzMTA1NTg5M119
 -->
