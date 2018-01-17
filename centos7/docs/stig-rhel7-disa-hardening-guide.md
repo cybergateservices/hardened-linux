@@ -126,7 +126,9 @@ Traditional Unix security relies heavily on file and directory permissions to pr
 ## Restrict Programs from Dangerous Execution Patterns
 The recommendations in this section are designed to ensure that the system's features to protect against potentially dangerous program execution are activated.
 ### Enable ExecShield
-[ExecShield describes kernel features that provide protection against exploitation of memory corruption errors such as buffer overflows
+[ExecShield](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_enable_execshield_settings) describes kernel features that provide protection against exploitation of memory corruption errors such as buffer overflows
+ - List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA3MTk3ODRdfQ==
+eyJoaXN0b3J5IjpbMTQ1ODQ2NzI4NV19
 -->
