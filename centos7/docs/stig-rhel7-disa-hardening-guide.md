@@ -81,8 +81,8 @@ During the installation you can choose the relevant security policy so that you 
 %end
 ```
 ## Updating Software
-To meet demands enforc
+To meet demands enforced 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5ODM2MzIyXX0=
+eyJoaXN0b3J5IjpbNjE0NzQwMTA5XX0=
 -->
