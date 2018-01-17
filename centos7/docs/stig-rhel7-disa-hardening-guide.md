@@ -113,8 +113,9 @@ Since this guide do not use the graphical interface we will not discuss it here.
 ## Using Sudo
 In Linux ```sudo``` provides the ability to delegate authority to certain users, groups of users, or system administrators. We need to meet the following requirements with ```sudo```
 
- - [Ensure Users Re-Authenticate for Privilege Escalation - sudo NOPASSWD]()
+ - [Ensure Users Re-Authenticate for Privilege Escalation - sudo NOPASSWD](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_sudo_remove_nopasswd)
+ - []()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzEwNzc4OV19
+eyJoaXN0b3J5IjpbODkzOTgxNjg5XX0=
 -->
