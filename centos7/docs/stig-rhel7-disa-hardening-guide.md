@@ -44,8 +44,9 @@ It will not be possible and practical to change the partition during  remediatio
 CentOS 7 Installer  creates creates separate logical volumes for  ```/, /boot, and swap.``` and you need to creating separate partitions for the following mount points.  For information and understand the rationals behind having separate portions of please refer to the [Disk Partitioning](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_disk_partitioning) section of the guide. 
 
  - Ensure ```/tmp``` Located On Separate Partition 
- - Ensure /var Located On Separate Partition
+ - Ensure ```/var``` Located On Separate Partition
+ - [Ensure /var/log/audit Located On Separate Partition ](
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0Mjg3NDMzXX0=
+eyJoaXN0b3J5IjpbLTE4MjcxMjE5MzddfQ==
 -->
