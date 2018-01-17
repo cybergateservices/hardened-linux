@@ -151,9 +151,10 @@ Users should be forced to change their passwords, in order to decrease the utili
  - [Set Password Maximum Age](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_accounts_maximum_age_login_defs)
  - [Set Existing Passwords Minimum Age](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_accounts_password_set_min_life_existing)
  - [Set Existing Passwords Maximum Age](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_accounts_password_set_max_life_existing)
+ - 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDc1ODExN119
+eyJoaXN0b3J5IjpbLTUwMzk5MTAyMF19
 -->
