@@ -95,12 +95,9 @@ Since the above URL is very long you run in to problems it in the installer as a
 ```
 https://git.io/vNCMc
 ```
-
 ## Updating Software
-To meet demands enforced by our security policy we need to keep the software update using ```yum``` software management tool
-
-```
+To meet demands enforced by our security policy we need to keep the software update using ```yum``` software management tool.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI5MTg3MDddfQ==
+eyJoaXN0b3J5IjpbOTk0OTA2Mzc3XX0=
 -->
