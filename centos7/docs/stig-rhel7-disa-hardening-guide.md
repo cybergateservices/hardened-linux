@@ -88,19 +88,19 @@ Using the kickstart file directly from  this site you can install CentOS 7 in an
  - Using [Vulre](https://www.vultr.com/)
 
 Use the the following URL to call your kickstart file during installation. 
-
-
-
-## Updating Software
-To meet demands enforced by our security policy we need to keep the software up
 ```
 https://raw.githubusercontent.com/cybergateservices/hardened-linux/master/centos7/ks/stig-centos7-ks.cfg
 ```
 Since the above URL is very long you run in to problems it in the installer as a kernel parameter. To make the life easier you can use the shortener [Git.io](https://git.io/) form above URL as below.
 ```
 https://git.io/vNCMc
+
+
+## Updating Software
+To meet demands enforced by our security policy we need to keep the software up
+```
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjY1NjM4NF19
+eyJoaXN0b3J5IjpbMTU1MTY4MDI0NF19
 -->
