@@ -96,7 +96,7 @@ To meet demands enforced by our security policy we need to keep the software up
 ```
 https://raw.githubusercontent.com/cybergateservices/hardened-linux/master/centos7/ks/stig-centos7-ks.cfg
 ```
-Since the above URL is very long you run in to pr
+Since the above URL is very long you run in to pro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTUyODMzNV19
+eyJoaXN0b3J5IjpbLTIwOTY5NzU4NTBdfQ==
 -->
