@@ -116,9 +116,9 @@ In Linux ```sudo``` provides the ability to delegate authority to certain users,
  - [Ensure Users Re-Authenticate for Privilege Escalation - sudo NOPASSWD](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_sudo_remove_nopasswd)
  - [Ensure Users Re-Authenticate for Privilege Escalation - sudo !authenticate](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_sudo_remove_no_authenticate)
 ## File Permissions and Masks
-Traditional Unix security relies heavily on file and directory permissions to prevent unauthorized users from reading or modifying files to which they should not have access.  In this section of the guide we need to achieve the following 
+Traditional Unix security relies heavily on file and directory permissions to prevent unauthorized users from reading or modifying files to which they should not have access.  In this section of the guide we need to achieve the following requir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NTAyNjM4XX0=
+eyJoaXN0b3J5IjpbMTM5NzU2OTY0Nl19
 -->
