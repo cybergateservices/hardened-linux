@@ -58,7 +58,9 @@ The relevant kickstart code to achieve our goals  in an automated passion is bel
 part /boot --fstype=xfs --size=1024 --fsoptions="rw,nodev,noexec,nosuid"
 # Create 30GB physical volume and encrypt it using LUKS
 part pv.01  --fstype="lvmpv" --ondisk=vda --size=30720 --encrypted --passphrase=PleaseChangeMe
+# Create the volume groups vg_os 
 volgroup vg_os pv.01
+#
 logvol /              --fstype="xfs" --size=6144 --vgname=vg_os --name=lv_root 
 logvol /home          --fstype="xfs" --size=2048 --vgname=vg_os --name=lv_home    --fsoptions="rw,nodev,nosuid"
 logvol /tmp           --fstype="xfs" --size=1024 --vgname=vg_os --name=lv_tmp     --fsoptions="rw,nodev,noexec,nosuid"
@@ -72,5 +74,5 @@ logvol swap           --fstype="swap" --size=512  --vgname=vg_os --name=lv_swap 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjU4OTQ4M119
+eyJoaXN0b3J5IjpbLTMxMzQwNDgxNF19
 -->
