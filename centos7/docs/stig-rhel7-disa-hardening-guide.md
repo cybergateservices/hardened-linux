@@ -133,8 +133,9 @@ SELinux is an Access Control  feature of the Linux kernel which can be used to g
  - [Ensure SELinux State is Enforcing](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_selinux_state)
  - [Configure SELinux Policy](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_selinux_policytype)
  - [Ensure No Device Files are Unlabeled by SELinux](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_selinux_all_devicefiles_labeled)
- - [Map System Users To The Appropriate SELinux Role](
+ - [Map System Users To The Appropriate SELinux Role](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_selinux_user_login_roles)
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM4Nzg1MTJdfQ==
+eyJoaXN0b3J5IjpbNzk5MzM3MTM3XX0=
 -->
