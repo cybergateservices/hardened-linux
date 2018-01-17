@@ -98,7 +98,9 @@ https://raw.githubusercontent.com/cybergateservices/hardened-linux/master/centos
 ```
 Since the above URL is very long you run in to problems it in the installer as a kernel parameter. To make the life easier you can use the shortener [Git.io](https://git.io/) form above URL as below.
 ```
+https://git.io/vNCMc
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDgxOTYzOV19
+eyJoaXN0b3J5IjpbMjEyNjY1NjM4NF19
 -->
