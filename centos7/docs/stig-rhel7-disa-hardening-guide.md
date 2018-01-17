@@ -107,11 +107,11 @@ In this section we need to meet  the following requirements.
  - [Ensure ```gpgcheck``` Enabled for Repository Metadata](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_ensure_gpgcheck_repo_metadata)
 
 ## System and Software Integrity
-Please refer to the [System and Software Intrgrity](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_integrity) to learn more about this.
+Please refer to the [System and Software Integrity](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_integrity)  section of the guide to learn more about this.
 ## GNOME Desktop Environment 
-Since this guide do not use the graphical interface we will not discuss it here. Please refer to the GNOME Desktop Environment 
+Since this guide do not use the graphical interface we will not discuss it here. Please refer to the [GNOME Desktop Environment]() section of the STI
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDAwNjE4M119
+eyJoaXN0b3J5IjpbMTU0OTU3NjYzN119
 -->
