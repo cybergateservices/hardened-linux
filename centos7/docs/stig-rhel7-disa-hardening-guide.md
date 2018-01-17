@@ -143,10 +143,11 @@ Direct root logins should be allowed only for emergency use. Please  follow the 
  - [Verify Only Root Has UID 0](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_accounts_no_uid_except_zero)
 ### Verify Proper Storage and Existence of Password Hashes
 In Linux password hashes are stored in ```/etc/shadow```. This file should be readable only by processes running with root credentials, preventing users from casually accessing others' password hashes and attempting to crack them. Click [here](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_group_password_storage) to learn more.
- - [Prevent Log In to Accounts With Empty Password](
+ - [Prevent Log In to Accounts With Empty Password](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_no_empty_passwords)
+ - 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjg0NzA4M119
+eyJoaXN0b3J5IjpbMTQ3NDQ4MTQwNV19
 -->
