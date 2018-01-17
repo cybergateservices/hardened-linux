@@ -85,7 +85,7 @@ During the installation you can choose the relevant security policy so that you 
 Using the kickstart file directly from  this site you can install CentOS 7 in any virtual, baremetal, or cloud environment  that support kickstart  installation. At the end of this guide you will learn how to deploy a kickstart installing in  the following environments.
 
  - Using  [Oracle VirtualBox](https://www.virtualbox.org/) in Linux or Windows 
- - Using [Vulre](https://www.vultr.com/)
+ - Using [Vulre](https://www.vultr.com/) cloud
 
 Use the the following URL to call your kickstart file during installation. 
 ```
@@ -125,5 +125,5 @@ Traditional Unix security relies heavily on file and directory permissions to pr
  - [Ensure All World-Writable Directories Are Owned by a System Account](https://static.open-scap.org/ssg-guides/ssg-rhel7-guide-stig-rhel7-disa.html#xccdf_org.ssgproject.content_rule_dir_perms_world_writable_system_owned)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzUzNDU2OF19
+eyJoaXN0b3J5IjpbLTk3NzAwODQ1MV19
 -->
