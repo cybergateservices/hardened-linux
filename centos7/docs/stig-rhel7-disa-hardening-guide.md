@@ -81,11 +81,11 @@ During the installation you can choose the relevant security policy so that you 
 %end
 ```
 ## Installing the Operating System
-Usin
+Using t
 
 ## Updating Software
 To meet demands enforced by our security policy we need to keep the software up
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDUyNTc0NF19
+eyJoaXN0b3J5IjpbNTczNjIyNTA5XX0=
 -->
